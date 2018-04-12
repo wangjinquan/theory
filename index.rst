@@ -80,6 +80,7 @@ corresponding to the used document version, you can look it up on `zenodo
 .. toctree::
     :maxdepth: 3
 
+    contributors
     defs/index
     problem/index
     nfchoa/index

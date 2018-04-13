@@ -64,8 +64,7 @@ hovering over the corresponding equation number, e.g.
 http://sfstoolbox.org/en/v3/wfs/#equation-D_wfs. Those links will always work.
 If you prefer to reference an equation from the `pdf document
 <http://readthedocs.org/projects/sfs/downloads/pdf/v3/>`_ instead, please cite
-the document with "H. Wierstorf, F. Winter, F. Schultz, N. Hahn, T. Rettberg, C.
-Hohnerlein, and S. Spors. *Theory of Sound Field Synthesis*.
+the document with "H. Wierstorf et al. *Theory of Sound Field Synthesis*.
 doi:10.5281/zenodo.1112451 |release|." Whereby it is important that you mention
 "|release|" as the provided |DOI| is a general one. All future document updates
 will also be available under that one. If you prefer to use the |DOI|
